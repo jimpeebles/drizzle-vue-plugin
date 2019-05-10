@@ -1,5 +1,7 @@
 # Vue Plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/trufflesuite/drizzle-vue-plugin.svg)](https://greenkeeper.io/)
+
 **Note**: This is still a work in progres
 
 ```
