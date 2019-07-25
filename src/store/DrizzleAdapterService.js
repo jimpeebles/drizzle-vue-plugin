@@ -23,7 +23,6 @@ const Log = (heading, msg) => {
 const drizzleHandler = store => {
   let drizzleInitialized = false
   return message => {
-    debugger
     Log('Redux', message)
     if (!drizzleInitialized) {
       if (message.drizzleStatus.initialized) {
